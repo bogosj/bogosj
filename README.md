@@ -1,6 +1,6 @@
 ### ✨ Hi there 👋
 
-I work at Google. I occasionally work on personal projects here.
+I used to work at Google. I occasionally work on personal projects here.
 
 - 📫 How to reach me:
   - https://keybase.io/bogosian
